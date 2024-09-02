@@ -5,14 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group03/ --emptyOutDir",
+    "build": "vite build --base=/vyshivanka/",
     "preview": "vite preview"
   },
   "devDependencies": {
     "glob": "^8.1.0",
     "vite": "^4.5.2"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Dream Team <altavanamail@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "modern-normalize": "^2.0.0",
